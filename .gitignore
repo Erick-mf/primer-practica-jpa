@@ -6,6 +6,7 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+src/main/resources/META-INF/
 
 # Class Files
 *.class
@@ -19,3 +20,6 @@ nb-configuration.xml
 *.db
 *.sqlite
 *.sqlite3
+
+# Percistence
+persistence.xml
