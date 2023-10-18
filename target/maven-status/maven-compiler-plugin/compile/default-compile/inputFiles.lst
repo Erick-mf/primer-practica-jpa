@@ -1,0 +1,12 @@
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/persistencia/exceptions/IllegalOrphanException.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/persistencia/exceptions/PreexistingEntityException.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/logica/Alumno.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/persistencia/AlumnoJpaController.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/logica/ControladoraLogica.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/Jpa_1.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/persistencia/ControladoraPersistencia.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/logica/Materia.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/logica/Carrera.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/persistencia/CarreraJpaController.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/persistencia/MateriaJpaController.java
+/home/usuario/web/java/jpa_1/src/main/java/com/mycompany/jpa_1/persistencia/exceptions/NonexistentEntityException.java
